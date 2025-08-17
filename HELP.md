@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name '.ConversorMonedas' is invalid and this project uses 'ConversorMonedas' instead.
+* The original package name 'com..Forum' is invalid and this project uses 'com.Forum' instead.
 
 # Getting Started
 
